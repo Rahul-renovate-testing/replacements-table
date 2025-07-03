@@ -11,6 +11,10 @@
       ],
       "replacementName": "prop-types-tools",
       "replacementVersion": "2.17.0"
+    },
+    {
+      "matchPackageNames": ["airbnb-prop-types", "nodemon"],
+      "groupName": "npm deps"
     }
   ]
 }
