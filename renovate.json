@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "matchCurrentVersion": "^2",
+      "matchDatasources": [
+        "npm"
+      ],
+      "matchPackageNames": [
+        "airbnb-prop-types"
+      ],
+      "replacementName": "prop-types-tools",
+      "replacementVersion": "2.17.0"
+    }
+  ]
+}
